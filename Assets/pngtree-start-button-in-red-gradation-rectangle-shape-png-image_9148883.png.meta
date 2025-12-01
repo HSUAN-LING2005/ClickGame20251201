@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: e4dfbb14c90dcc54cbc00e97c766023e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 360050656457254147
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_0
+  - first:
+      213: -8333084620923573255
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_1
+  - first:
+      213: 8697385220776354788
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_2
+  - first:
+      213: 3748268711733986744
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_3
+  - first:
+      213: 7854670575482485794
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_4
+  - first:
+      213: 5229839505942310687
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_5
+  - first:
+      213: 6034986535904948429
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_6
+  - first:
+      213: -3829804021111832793
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_7
+  - first:
+      213: -2207922507250137430
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_8
+  - first:
+      213: -2074021668640965921
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_9
+  - first:
+      213: -3833366640691706372
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_10
+  - first:
+      213: -6050006983416919337
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_11
+  - first:
+      213: -5558233355178468699
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_12
+  - first:
+      213: -8483937543291514412
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_13
+  - first:
+      213: 1160744022313152637
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_14
+  - first:
+      213: 7953587768312221980
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_15
+  - first:
+      213: 1313875082385502429
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_16
+  - first:
+      213: 6700143650175828364
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_17
+  - first:
+      213: -4834101259894444888
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_18
+  - first:
+      213: -3150168115295806639
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_19
+  - first:
+      213: -5558034484719430046
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_20
+  - first:
+      213: 2238294386123166493
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_21
+  - first:
+      213: -7877429909728743935
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_22
+  - first:
+      213: 2856914361570779715
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_23
+  - first:
+      213: 6849937026017496657
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_24
+  - first:
+      213: 1190636589251734427
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_25
+  - first:
+      213: -3022952374500836198
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_26
+  - first:
+      213: 7031683877336262356
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_27
+  - first:
+      213: -8743634111479133244
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_28
+  - first:
+      213: 3280728351664195189
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_29
+  - first:
+      213: 8721948924108392750
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_30
+  - first:
+      213: -1195481427684916558
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_31
+  - first:
+      213: -776024934728535557
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_32
+  - first:
+      213: 517805000145093347
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_33
+  - first:
+      213: 455507763723814065
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_34
+  - first:
+      213: 8112424156281606237
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_35
+  - first:
+      213: 9086502363492729344
+    second: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305e7471a282ff400800000000000000
+      internalID: 360050656457254147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb649610bfea5c80800000000000000
+      internalID: -8333084620923573255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e36b1f07c153b870800000000000000
+      internalID: 8697385220776354788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b58d9db886840430800000000000000
+      internalID: 3748268711733986744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cb857c545610d60800000000000000
+      internalID: 7854670575482485794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1feeff525f149840800000000000000
+      internalID: 5229839505942310687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1008
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc031e8974490c350800000000000000
+      internalID: 6034986535904948429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1045
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f3442b88dc9dac0800000000000000
+      internalID: -3829804021111832793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_8
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1008
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa604cf7d22eb51e0800000000000000
+      internalID: -2207922507250137430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_9
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1045
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda3130f7489733e0800000000000000
+      internalID: -2074021668640965921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 947
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50dbfa9552dcac0800000000000000
+      internalID: -3833366640691706372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 978
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da4dc0f3be0a0ca0800000000000000
+      internalID: -6050006983416919337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_12
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 947
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa1cd556303dd2b0800000000000000
+      internalID: -5558233355178468699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_13
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 978
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1528311cff24a80800000000000000
+      internalID: -8483937543291514412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 345
+        width: 997
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d703225d98acb1010800000000000000
+      internalID: 1160744022313152637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 862
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1154247fe1d06e60800000000000000
+      internalID: 7953587768312221980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 862
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd033dc1d62db3210800000000000000
+      internalID: 1313875082385502429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_17
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 614
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81c1d4a621bbfc50800000000000000
+      internalID: 6700143650175828364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 668
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac29bb2482d9ecb0800000000000000
+      internalID: -4834101259894444888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b18091aca5844d0800000000000000
+      internalID: -3150168115295806639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_20
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 489
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2665de87515edd2b0800000000000000
+      internalID: -5558034484719430046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 261
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d135f9b92e4001f10800000000000000
+      internalID: 2238294386123166493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ea497cb3fbda290800000000000000
+      internalID: -7877429909728743935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_23
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 261
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342632ba97cc5a720800000000000000
+      internalID: 2856914361570779715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_24
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 13
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e8191ce6ddf0f50800000000000000
+      internalID: 6849937026017496657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9baeee6badf58010800000000000000
+      internalID: 1190636589251734427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c34f8e4d05c06d0800000000000000
+      internalID: -3022952374500836198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_27
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d628712b3f859160800000000000000
+      internalID: 7031683877336262356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_28
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb4c43f91f58a680800000000000000
+      internalID: -8743634111479133244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 127
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5764f75cd0d778d20800000000000000
+      internalID: 3280728351664195189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 165
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c49ae5569a0970800000000000000
+      internalID: 8721948924108392750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_31
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 127
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b28347b9fbc86fe0800000000000000
+      internalID: -1195481427684916558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 165
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1f8a4fe610b35f0800000000000000
+      internalID: -776024934728535557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2c19877ec9f2700800000000000000
+      internalID: 517805000145093347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4c031d5e9425600800000000000000
+      internalID: 455507763723814065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_35
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 67
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d509676e9ce159070800000000000000
+      internalID: 8112424156281606237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_36
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 98
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0024bbad1cdb91e70800000000000000
+      internalID: 9086502363492729344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_0: 360050656457254147
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_1: -8333084620923573255
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_10: -3833366640691706372
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_11: -6050006983416919337
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_12: -5558233355178468699
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_13: -8483937543291514412
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_14: 1160744022313152637
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_15: 7953587768312221980
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_16: 1313875082385502429
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_17: 6700143650175828364
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_18: -4834101259894444888
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_19: -3150168115295806639
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_2: 8697385220776354788
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_20: -5558034484719430046
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_21: 2238294386123166493
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_22: -7877429909728743935
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_23: 2856914361570779715
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_24: 6849937026017496657
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_25: 1190636589251734427
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_26: -3022952374500836198
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_27: 7031683877336262356
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_28: -8743634111479133244
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_29: 3280728351664195189
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_3: 3748268711733986744
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_30: 8721948924108392750
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_31: -1195481427684916558
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_32: -776024934728535557
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_33: 517805000145093347
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_34: 455507763723814065
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_35: 8112424156281606237
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_36: 9086502363492729344
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_4: 7854670575482485794
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_5: 5229839505942310687
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_6: 6034986535904948429
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_7: -3829804021111832793
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_8: -2207922507250137430
+      pngtree-start-button-in-red-gradation-rectangle-shape-png-image_9148883_9: -2074021668640965921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
